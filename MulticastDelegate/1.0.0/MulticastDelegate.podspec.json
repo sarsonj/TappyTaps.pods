@@ -1,0 +1,14 @@
+{
+  "name": "MulticastDelegate",
+  "version": "1.0.0",
+  "license": "MIT",
+  "summary": "MulticastDelegate extracted from XMPPFramework.",
+  "homepage": "https://github.com/sergeyzenchenko/MulticastDelegate",
+  "authors": "XMPPFramework",
+  "source": {
+    "git": "git@github.com:sarsonj/MulticastDelegate.git",
+    "commit": "377a3eaa8e53082cc03c3a5f74d48412e88b7f6e"
+  },
+  "requires_arc": true,
+  "source_files": "*.{h,m}"
+}
