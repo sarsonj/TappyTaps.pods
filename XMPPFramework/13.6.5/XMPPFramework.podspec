@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name = 'TSXMPPFramework'
+s.name = 'XMPPFramework'
 s.version = '13.6.5'
 
 s.osx.deployment_target = '10.7'
